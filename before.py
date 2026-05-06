@@ -20,7 +20,7 @@ def process_student2():
     if avg >= 60:
         print(f"Student 2: Pass ({avg:.1f})")
     else:
-        print(f"Student 2: Fail ({avg:.1f})")
+        print(f"Student 2: Pass ({avg:.1f})")
 
 def process_student3():
     # 超长函数（把逻辑全堆在一起）
